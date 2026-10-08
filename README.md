@@ -9,7 +9,7 @@
 
 The GigPay MVP prototype demonstrates the core product journey from onboarding and KYC verification to cash advance, savings, repayment, referrals, and AI-powered financial assistance.
 
-🔗 **[View the GigPay Figma Prototype →](YOUR_FIGMA_LINK_HERE)**
+🔗 **[View the GigPay Figma Prototype →](https://www.figma.com/design/r3HWtZWTn532Vt3ZfyaMMv/GigPay-App?node-id=43-957&t=LC0DnpZcmPdoHa8U-1)**
 ## 📌 Overview
 
 GigPay is a mobile-first fintech product concept designed to improve financial inclusion for urban gig workers such as delivery riders, ride-hailing drivers, and logistics workers.
