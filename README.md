@@ -5,7 +5,11 @@
 **Product Management Capstone | BITSoM × Masai**  
 **Team:** GigPay Devs  
 ---
+## 🎨 Interactive MVP Prototype
 
+The GigPay MVP prototype demonstrates the core product journey from onboarding and KYC verification to cash advance, savings, repayment, referrals, and AI-powered financial assistance.
+
+🔗 **[View the GigPay Figma Prototype →](YOUR_FIGMA_LINK_HERE)**
 ## 📌 Overview
 
 GigPay is a mobile-first fintech product concept designed to improve financial inclusion for urban gig workers such as delivery riders, ride-hailing drivers, and logistics workers.
